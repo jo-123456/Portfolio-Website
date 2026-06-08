@@ -4,13 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-  "start": "node server.js"
-}
-=======
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
->>>>>>> f51bf702c23d4750ce177e1e61d6251312974fdf
   "keywords": [],
   "author": "",
   "license": "ISC",
